@@ -1,0 +1,5 @@
+计划这是最后一次测试，重新连接ssh后
+复制.ssh文件中id_rsa.pub公匙内容，配置完成github上的ssh后，
+记得要用下面的命令关联本地
+ssh -T git@github.com
+即可完成本地和远程git账户的相关联
